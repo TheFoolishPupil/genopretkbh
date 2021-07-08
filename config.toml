@@ -70,7 +70,7 @@ googleAnalytics = ""
 
         # Service section
             [languages.en.params.services]
-                headline = "Practice sessions"
+                headline = "🙃"
 
             [[languages.en.params.services.list]]
                 # icon = "fa-diamond"
